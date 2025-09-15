@@ -1,0 +1,47 @@
+{
+  "S40126": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Bleichestraße 9, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Reinhard Schulz, Spremberger Str. 151, 03149 Forst (Lausitz), Deutschland",
+    "price": "2.300 €",
+    "description": "Hersteller: Simson<br>Typ: S 53<br>Fahrgestelnummer: 6403484<br>Erstzulassung: 01/1991<br>KM laut Vorbesitzer: 14.320 km<br>Leistung: 2,7 kW (3,7 PS)<br>Hubraum: 49 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Reinhard Schulz<br>Spremberger Str. 151<br>03149 Forst (Lausitz)<br>Deutschland<br>Telefon: +49 356 2984013, +49 162 7158715",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "15-09-2025",
+    "deliveryDate": "19-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
