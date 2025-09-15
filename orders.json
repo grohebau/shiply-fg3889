@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Spremberger Str. 151",
+      "postal_code": "03149",
+      "city": "Forst (Lausitz)",
+      "country": "Deutschland",
+      "lat": "51.726758783553244",
+      "lng": "14.61806662585186"
     }
   }
 }
